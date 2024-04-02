@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "utils.h"
 
 using namespace std;
 
@@ -78,6 +79,8 @@ int main()
     s.add(2, 2);
 
     s.print();
+
+    cout << add(1, 2) << '\n';
 }
 
 /*
